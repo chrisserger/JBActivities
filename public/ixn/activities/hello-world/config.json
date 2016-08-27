@@ -2,7 +2,7 @@
    "workflowApiVersion": "1.0",
    "metaData": {
        "icon": "images/direct_mail_JB.png",
-       "iconSmall": "images/DirectMail15_cs.png",
+       "iconSmall": "images/direct_mail_JB.png",
        "category": "message",
 	   "isConfigured":true
    },
